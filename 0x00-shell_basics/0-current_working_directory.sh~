@@ -1,4 +1,0 @@
-#!/bin/bash
-currentpath = $(pwd)
-echo "path is : $currentpath"
-
